@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\bin\Debug\net6.0\LeetCode_217_Contains_Duplicate.exe
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\bin\Debug\net6.0\LeetCode_217_Contains_Duplicate.deps.json
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\bin\Debug\net6.0\LeetCode_217_Contains_Duplicate.runtimeconfig.json
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\bin\Debug\net6.0\LeetCode_217_Contains_Duplicate.dll
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\bin\Debug\net6.0\LeetCode_217_Contains_Duplicate.pdb
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.dll
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\refint\LeetCode_217_Contains_Duplicate.dll
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.pdb
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\LeetCode_217_Contains_Duplicate.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\LeetCode_217_Contains_Duplicate\LeetCode_217_Contains_Duplicate\obj\Debug\net6.0\ref\LeetCode_217_Contains_Duplicate.dll

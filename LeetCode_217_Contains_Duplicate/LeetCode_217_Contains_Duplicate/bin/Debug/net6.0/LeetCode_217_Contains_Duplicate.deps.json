@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LeetCode_217_Contains_Duplicate/1.0.0": {
+        "runtime": {
+          "LeetCode_217_Contains_Duplicate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode_217_Contains_Duplicate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
