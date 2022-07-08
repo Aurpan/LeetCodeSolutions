@@ -1,0 +1,6 @@
+E:\LeetCodeSolutions\LeetCode_1_Two_Sum\LeetCode_1_Two_Sum\bin\Debug\LeetCode_1_Two_Sum.exe.config
+E:\LeetCodeSolutions\LeetCode_1_Two_Sum\LeetCode_1_Two_Sum\bin\Debug\LeetCode_1_Two_Sum.exe
+E:\LeetCodeSolutions\LeetCode_1_Two_Sum\LeetCode_1_Two_Sum\bin\Debug\LeetCode_1_Two_Sum.pdb
+E:\LeetCodeSolutions\LeetCode_1_Two_Sum\LeetCode_1_Two_Sum\obj\Debug\LeetCode_1_Two_Sum.csprojResolveAssemblyReference.cache
+E:\LeetCodeSolutions\LeetCode_1_Two_Sum\LeetCode_1_Two_Sum\obj\Debug\LeetCode_1_Two_Sum.exe
+E:\LeetCodeSolutions\LeetCode_1_Two_Sum\LeetCode_1_Two_Sum\obj\Debug\LeetCode_1_Two_Sum.pdb
