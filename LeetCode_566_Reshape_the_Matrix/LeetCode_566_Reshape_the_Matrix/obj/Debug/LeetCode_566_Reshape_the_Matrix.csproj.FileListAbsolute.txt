@@ -1,0 +1,1 @@
+E:\LeetCodeSolutions\LeetCode_566_Reshape_the_Matrix\LeetCode_566_Reshape_the_Matrix\bin\Debug\LeetCode_566_Reshape_the_Matrix.exe.config
